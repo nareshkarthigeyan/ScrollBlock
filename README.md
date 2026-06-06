@@ -9,20 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot_1.png" width="31%" alt="Main Shield Toggle Screen" />
-  <img src="screenshots/screenshot_2.png" width="31%" alt="Features Overview Screen" />
-  <img src="screenshots/screenshot_3.png" width="31%" alt="Habit Analytics Screen" />
-  <br/><br/>
-  <img src="screenshots/screenshot_4.png" width="31%" alt="Focus Launcher Mode" />
-  <img src="screenshots/screenshot_5.png" width="31%" alt="Routines Scheduler Screen" />
-  <img src="screenshots/screenshot_6.png" width="31%" alt="App Blocker Folders" />
-  <br/><br/>
-  <img src="screenshots/screenshot_7.png" width="31%" alt="Daily Usage Stats" />
-  <img src="screenshots/screenshot_8.png" width="31%" alt="Restore Access Recovery Guide" />
-  <img src="screenshots/screenshot_9.png" width="31%" alt="Account & Referrals Panel" />
-</p>
-
-<p align="center">
   <a href="https://play.google.com/store/apps/details?id=dev.naresh.scrollblock">
     <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=googleplay" alt="Google Play Store" />
   </a>
@@ -45,6 +31,12 @@ Unlike general app blockers that force-close apps or lock you out of entire plat
 
 ScrollBlock is **100% ad-free, runs entirely offline on your device, and collects zero personal data.**
 
+<p align="center">
+  <img src="screenshots/screenshot_1.png" width="31%" alt="Main Shield Toggle Screen" />
+  <img src="screenshots/screenshot_2.png" width="31%" alt="Features Overview Screen" />
+  <img src="screenshots/screenshot_3.png" width="31%" alt="Habit Analytics Screen" />
+</p>
+
 ---
 
 ## 🌟 Key Features
@@ -58,6 +50,12 @@ ScrollBlock is **100% ad-free, runs entirely offline on your device, and collect
 | 📂 **Folder-Based App Locking** | Organize games, shopping, or social apps into custom folders. Protect them with password locks, daily usage quotas, or total block windows. |
 | 📊 **Advanced Habit Analytics** | Dive into detailed activity logs. Monitor how many times ScrollBlock intercepted a scroll, check historical trends, and track your daily "Time Saved" estimates. |
 | 📱 **Launcher Widgets** | Control protection state instantly with one-tap main toggles, and view active streaks or focus stats directly on your home screen. |
+
+<p align="center">
+  <img src="screenshots/screenshot_4.png" width="31%" alt="Focus Launcher Mode" />
+  <img src="screenshots/screenshot_5.png" width="31%" alt="Routines Scheduler Screen" />
+  <img src="screenshots/screenshot_6.png" width="31%" alt="App Blocker Folders" />
+</p>
 
 ---
 
@@ -88,6 +86,12 @@ Accessibility-based tools often raise privacy questions. ScrollBlock is designed
 2.  **Signature Match**: The high-precision detection engine (`ReelsDetector`, `ShortsDetector`, etc.) checks if the current screen corresponds to a short-form video container.
 3.  **Non-Intrusive Intervention**: Rather than killing the app process, ScrollBlock instantly performs a system-level "Back" action. You are seamlessly returned to your previous context (such as the main feed or a chat thread) without frustrating app restarts.
 4.  **OS Optimization Recovery**: Aggressive battery-saving features on modern phones (especially MIUI/HyperOS, OnePlus, and Samsung) can sometimes kill accessibility services. ScrollBlock includes a built-in recovery sheet and autostart guidance to keep your protection running stably.
+
+<p align="center">
+  <img src="screenshots/screenshot_7.png" width="31%" alt="Daily Usage Stats" />
+  <img src="screenshots/screenshot_8.png" width="31%" alt="Restore Access Recovery Guide" />
+  <img src="screenshots/screenshot_9.png" width="31%" alt="Account & Referrals Panel" />
+</p>
 
 ---
 
