@@ -126,3 +126,11 @@ If you would like to report a bug, request a new feature, or submit feedback:
 *   **Raise a GitHub Issue**: [Open a support or request issue on GitHub](https://github.com/nareshkarthigeyan/ScrollBlock/issues) for bugs and features.
 *   **Email Support**: Email direct to [work.nareshkarthigeyan@gmail.com](mailto:work.nareshkarthigeyan@gmail.com).
 *   **In-App Support**: Report issues directly within ScrollBlock via the **About** menu (which packages helpful diagnostic data for faster support).
+
+## Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=star-history/star-history&type=date&theme=dark&legend=top-left" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=star-history/star-history&type=date&legend=top-left" />
+  <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=star-history/star-history&type=date&legend=top-left" />
+</picture>
