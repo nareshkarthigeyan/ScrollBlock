@@ -61,6 +61,16 @@ ScrollBlock actively monitors and blocks short-form autoplaying feeds in:
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot_1.png" width="30%" alt="Screenshot 1" />
+  <img src="screenshots/screenshot_2.png" width="30%" alt="Screenshot 2" />
+  <img src="screenshots/screenshot_3.png" width="30%" alt="Screenshot 3" />
+</p>
+
+---
+
 ## 🔒 Privacy & Safety First
 
 Accessibility-based tools often raise privacy questions. ScrollBlock is designed with a strict **no-data-collection architecture**:
