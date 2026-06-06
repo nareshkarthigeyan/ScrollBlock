@@ -1,19 +1,30 @@
-<h1 align="center">
-  <br>
-  ScrollBlock
-  <br>
-</h1>
+<p align="center">
+  <img src="screenshots/logo.png" width="128" alt="ScrollBlock Logo" />
+</p>
+
+<h1 align="center">ScrollBlock</h1>
 
 <p align="center">
   <strong>Take back your attention. Defeat the doomscrolling loop.</strong>
 </p>
 
 <p align="center">
+  <img src="screenshots/screenshot_1.png" width="31%" alt="Main Shield Toggle Screen" />
+  <img src="screenshots/screenshot_2.png" width="31%" alt="Features Overview Screen" />
+  <img src="screenshots/screenshot_3.png" width="31%" alt="Habit Analytics Screen" />
+  <br/><br/>
+  <img src="screenshots/screenshot_4.png" width="31%" alt="Focus Launcher Mode" />
+  <img src="screenshots/screenshot_5.png" width="31%" alt="Routines Scheduler Screen" />
+  <img src="screenshots/screenshot_6.png" width="31%" alt="App Blocker Folders" />
+  <br/><br/>
+  <img src="screenshots/screenshot_7.png" width="31%" alt="Daily Usage Stats" />
+  <img src="screenshots/screenshot_8.png" width="31%" alt="Restore Access Recovery Guide" />
+  <img src="screenshots/screenshot_9.png" width="31%" alt="Account & Referrals Panel" />
+</p>
+
+<p align="center">
   <a href="https://play.google.com/store/apps/details?id=dev.naresh.scrollblock">
     <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=googleplay" alt="Google Play Store" />
-  </a>
-  <a href="#github-releases">
-    <img src="https://img.shields.io/badge/GitHub-Download_APK-black?style=for-the-badge&logo=github" alt="GitHub Releases" />
   </a>
 </p>
 
@@ -61,16 +72,6 @@ ScrollBlock actively monitors and blocks short-form autoplaying feeds in:
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/screenshot_1.png" width="30%" alt="Screenshot 1" />
-  <img src="screenshots/screenshot_2.png" width="30%" alt="Screenshot 2" />
-  <img src="screenshots/screenshot_3.png" width="30%" alt="Screenshot 3" />
-</p>
-
----
-
 ## 🔒 Privacy & Safety First
 
 Accessibility-based tools often raise privacy questions. ScrollBlock is designed with a strict **no-data-collection architecture**:
@@ -100,15 +101,11 @@ Accessibility-based tools often raise privacy questions. ScrollBlock is designed
 
 ---
 
-## 📥 Getting Started
+## 📥 Download
 
-### Method 1: Google Play Store (Recommended)
+### Google Play Store
 Get automated updates, easy backups, and secure subscription management directly on Google Play:
-👉 **[Download ScrollBlock on Google Play Store](https://play.google.com/store/apps/details?id=dev.naresh.scrollblock)** *(Placeholder - insert link)*
-
-### Method 2: GitHub Releases / APK
-If you prefer to sideload or use a de-Googled device, you can grab the latest signed APK directly from our releases:
-👉 **[Download the Latest APK Release](https://github.com/username/reponame/releases)** *(Placeholder - insert link)*
+👉 **[Download ScrollBlock on Google Play Store](https://play.google.com/store/apps/details?id=dev.naresh.scrollblock)**
 
 ---
 
@@ -121,6 +118,7 @@ If you prefer to sideload or use a de-Googled device, you can grab the latest si
 
 ## ✉️ Support & Feedback
 
-Have questions, bug reports, or feature ideas?
-*   **Email**: [work.nareshkarthigeyan@gmail.com](mailto:work.nareshkarthigeyan@gmail.com)
-*   **Report a Bug**: Accessible directly in the app's **About** menu, which auto-fills device details for faster troubleshooting.
+If you would like to report a bug, request a new feature, or submit feedback:
+*   **Raise a GitHub Issue**: [Open a support or request issue on GitHub](https://github.com/nareshkarthigeyan/ScrollBlock/issues) for bugs and features.
+*   **Email Support**: Email direct to [work.nareshkarthigeyan@gmail.com](mailto:work.nareshkarthigeyan@gmail.com).
+*   **In-App Support**: Report issues directly within ScrollBlock via the **About** menu (which packages helpful diagnostic data for faster support).
